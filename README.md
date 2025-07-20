@@ -1,2 +1,2 @@
-# Real-Time-Mask-Detector-App
-Face Mask Detection AI Model
+# Image-Sentiment-Analysis
+Classify the expression as **Happy 😊** or **Sad** 😢
