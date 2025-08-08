@@ -1,4 +1,4 @@
-# 😊 Image-Sentiment-Analysis | Classify Happy 😊 or Sad 😢
+# Image-Sentiment-Analysis | Classify Happy 😊 or Sad 😢
 
 🔗 **Try the live app:** [image-sentiment-analysis.streamlit.app](https://image-sentiment-analysis.streamlit.app/)
 
